@@ -7,4 +7,4 @@ LiMDE ==> (Li)nux (M)emory and (D)rive (E)xtractor
 * Displays commandline to dd file locally or over network.
  
 
-<a href="http://ajmartel.github.io/LiMDE/">Website</a>
+<a href="http://ajmartel.github.io/LiMDE/">LiMDE Website</a>
